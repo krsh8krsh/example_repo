@@ -1,5 +1,5 @@
 
 hello wordl! 
 How are you 
-This is my sample file
+This is my sample repository. 
 Hope this works. 
